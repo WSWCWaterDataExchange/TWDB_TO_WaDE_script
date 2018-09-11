@@ -1,0 +1,7 @@
+numpy
+plotly
+pandas
+openpyxl
+xlrd
+xlsxwriter
+

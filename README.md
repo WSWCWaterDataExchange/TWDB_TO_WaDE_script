@@ -1,2 +1,4 @@
-# TWDB_TO_WaDE_script
-Code and input files to automate preparing the TWDB water use estimates into WaDE
+# TWDB_script
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amabdallah/TWDB_script/master)
+
